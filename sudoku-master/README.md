@@ -54,6 +54,4 @@ This is the puzzle that a Finnish mathematician [claims to be the hardest one kn
     user    0m0.004s
     sys     0m0.001s
 
-The exact milliseconds vary a little between runs, but those are the magnitudes. Those examples ran in my MacBook Air 11'' mid-2012, with a dual core i7 (Ivy Bridge).
 
-Since this was an exercise control error of the arguments is totally primitive. Basically, you either enter the right stuff or else get a segmentation fault.
