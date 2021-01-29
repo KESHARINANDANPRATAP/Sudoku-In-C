@@ -1,5 +1,3 @@
-This is a fairly simple Sudoku solver written in C. An exercise in bactracking I did back in 2005 to cheat in a contest of a newspaper. They published a daily Sudoku, and you had to send the solution to win something I have forgotten. Come on, who wants to solve a Sudoku when you can solve them all, uh?
-
 The backtracking loop is compact, it is kind of generic to many backtracking problems I believe.
 
 There is a matrix that stores the numbers, and there are redundant structures for rows, columns, and the nine sub-squares that maintain bit masks. They allow the program to check stuff using bitwise operators, which proved to be a fast approach compared to other options.
